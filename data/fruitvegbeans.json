@@ -1,0 +1,2176 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "apple"
+        },
+        {
+            "id": 2,
+            "name": "butter"
+        },
+        {
+            "id": 3,
+            "name": "cream"
+        },
+        {
+            "id": 4,
+            "name": "egg"
+        },
+        {
+            "id": 5,
+            "name": "egg yolk"
+        },
+        {
+            "id": 6,
+            "name": "flour"
+        },
+        {
+            "id": 7,
+            "name": "fruit"
+        },
+        {
+            "id": 8,
+            "name": "garlic clove"
+        },
+        {
+            "id": 9,
+            "name": "milk"
+        },
+        {
+            "id": 10,
+            "name": "onion"
+        },
+        {
+            "id": 11,
+            "name": "parsley"
+        },
+        {
+            "id": 12,
+            "name": "pepper"
+        },
+        {
+            "id": 13,
+            "name": "potato"
+        },
+        {
+            "id": 14,
+            "name": "salt"
+        },
+        {
+            "id": 15,
+            "name": "sauce"
+        },
+        {
+            "id": 16,
+            "name": "sugar"
+        },
+        {
+            "id": 17,
+            "name": "syrup"
+        },
+        {
+            "id": 18,
+            "name": "tomato"
+        },
+        {
+            "id": 19,
+            "name": "vinegar"
+        },
+        {
+            "id": 20,
+            "name": "water"
+        }
+    ],
+    "edges": [
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 2,
+                "name": "butter"
+            },
+            "chem": 56
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 3,
+                "name": "cream"
+            },
+            "chem": 60
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg"
+            },
+            "chem": 40
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "chem": 20
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 6,
+                "name": "flour"
+            },
+            "chem": 28
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "chem": 76
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "chem": 30
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 9,
+                "name": "milk"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 20
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 54
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 22
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 217
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 63
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 42
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "apple"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 210
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 3,
+                "name": "cream"
+            },
+            "chem": 433
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg"
+            },
+            "chem": 477
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "chem": 287
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 6,
+                "name": "flour"
+            },
+            "chem": 589
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "chem": 45
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 9,
+                "name": "milk"
+            },
+            "chem": 466
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 394
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 364
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 1318
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 434
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 1906
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 278
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 391
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 230
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 233
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1268
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg"
+            },
+            "chem": 130
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "chem": 115
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 6,
+                "name": "flour"
+            },
+            "chem": 180
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "chem": 32
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 9,
+                "name": "milk"
+            },
+            "chem": 175
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 61
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 71
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 285
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 105
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 483
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 80
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 179
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 20
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 41
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 58
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 357
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "chem": 199
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 6,
+                "name": "flour"
+            },
+            "chem": 200
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "chem": 28
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 9,
+                "name": "milk"
+            },
+            "chem": 184
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 150
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 147
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 421
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 176
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 632
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 94
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 170
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 68
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 203
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 341
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 6,
+                "name": "flour"
+            },
+            "chem": 129
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 9,
+                "name": "milk"
+            },
+            "chem": 87
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 78
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 101
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 208
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 97
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 352
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 101
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 122
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 25
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 151
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 199
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "chem": 14
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 9,
+                "name": "milk"
+            },
+            "chem": 257
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 151
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 113
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 405
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 119
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 619
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 130
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 132
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 50
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 74
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "flour"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 430
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "chem": 66
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 9,
+                "name": "milk"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 24
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 407
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 194
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 60
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 312
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 9,
+                "name": "milk"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 158
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 34
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 114
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 225
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 25
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 217
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 63
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 56
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 299
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 211
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 10,
+                "name": "onion"
+            },
+            "chem": 80
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 91
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 324
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 141
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 474
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 62
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 94
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 25
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "milk"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 302
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "chem": 217
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 514
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 159
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 753
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 102
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 168
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 207
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 344
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "onion"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 502
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "chem": 363
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 196
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 483
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 100
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 53
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 65
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 112
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 285
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 13,
+                "name": "potato"
+            },
+            "chem": 309
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 2007
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 204
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 263
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 291
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 533
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1003
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "potato"
+            },
+            "target": {
+                "id": 14,
+                "name": "salt"
+            },
+            "chem": 587
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "potato"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 56
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "potato"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 61
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "potato"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "potato"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 24
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "potato"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 105
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "potato"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 347
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "salt"
+            },
+            "target": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "chem": 309
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "salt"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 569
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "salt"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 40
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "salt"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 404
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "salt"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 860
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "salt"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1820
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "chem": 78
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 34
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 88
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 279
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "chem": 327
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 138
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 413
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 978
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 56
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "syrup"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 280
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 113
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 196
+        },
+        {
+            "source": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 528
+        }
+    ]
+}

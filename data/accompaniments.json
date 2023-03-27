@@ -1,0 +1,2176 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "butter"
+        },
+        {
+            "id": 2,
+            "name": "cream"
+        },
+        {
+            "id": 3,
+            "name": "egg"
+        },
+        {
+            "id": 4,
+            "name": "egg yolk"
+        },
+        {
+            "id": 5,
+            "name": "flour"
+        },
+        {
+            "id": 6,
+            "name": "fruit"
+        },
+        {
+            "id": 7,
+            "name": "garlic clove"
+        },
+        {
+            "id": 8,
+            "name": "juice"
+        },
+        {
+            "id": 9,
+            "name": "lemon"
+        },
+        {
+            "id": 10,
+            "name": "lemon juice"
+        },
+        {
+            "id": 11,
+            "name": "mustard"
+        },
+        {
+            "id": 12,
+            "name": "nutmeg"
+        },
+        {
+            "id": 13,
+            "name": "onion"
+        },
+        {
+            "id": 14,
+            "name": "parsley"
+        },
+        {
+            "id": 15,
+            "name": "pepper"
+        },
+        {
+            "id": 16,
+            "name": "salt"
+        },
+        {
+            "id": 17,
+            "name": "sauce"
+        },
+        {
+            "id": 18,
+            "name": "sugar"
+        },
+        {
+            "id": 19,
+            "name": "vinegar"
+        },
+        {
+            "id": 20,
+            "name": "water"
+        }
+    ],
+    "edges": [
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 2,
+                "name": "cream"
+            },
+            "chem": 309
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 3,
+                "name": "egg"
+            },
+            "chem": 260
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "chem": 256
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 5,
+                "name": "flour"
+            },
+            "chem": 613
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "chem": 131
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 60
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 146
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 239
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 104
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 220
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 346
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 303
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 480
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 815
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 419
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 358
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 242
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "butter"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 638
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 3,
+                "name": "egg"
+            },
+            "chem": 92
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "chem": 128
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 5,
+                "name": "flour"
+            },
+            "chem": 150
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "chem": 15
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 31
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 51
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 58
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 55
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 72
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 65
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 48
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 107
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 246
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 131
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 190
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 83
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "cream"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 197
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "chem": 174
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 5,
+                "name": "flour"
+            },
+            "chem": 126
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 76
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 76
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 97
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 61
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 66
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 76
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 130
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 283
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 103
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 205
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 134
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "egg"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 245
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 5,
+                "name": "flour"
+            },
+            "chem": 143
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 25
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 77
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 117
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 114
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 65
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 41
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 86
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 122
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 294
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 167
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 174
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 158
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 220
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "chem": 77
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 23
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 74
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 90
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 51
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 100
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 199
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 123
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 289
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 532
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 183
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 169
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 135
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "flour"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 437
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "chem": 26
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 125
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 56
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 43
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 405
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 30
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 282
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 52
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 37
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 52
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 96
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 214
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 101
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 151
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 278
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 92
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 142
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 223
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "garlic clove"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 181
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 123
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 48
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 23
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 28
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 59
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 60
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 327
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 32
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 253
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 86
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 32
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 57
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 32
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 50
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 57
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 120
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 96
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 267
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 70
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 270
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "chem": 42
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 42
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 51
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 107
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 109
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 217
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 111
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 229
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 94
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 281
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 80
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 49
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 122
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 291
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 64
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 136
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 279
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "mustard"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 114
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 70
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 69
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 102
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 183
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 107
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 109
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 81
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 138
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 203
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 322
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 505
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 158
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 107
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 252
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 263
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 202
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 286
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 151
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 26
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 105
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 142
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 787
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 171
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 114
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 300
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 312
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "chem": 325
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 379
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 661
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 726
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "chem": 165
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 160
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 272
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 345
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1204
+        },
+        {
+            "source": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 319
+        }
+    ]
+}

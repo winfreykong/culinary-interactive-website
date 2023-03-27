@@ -1,0 +1,2176 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "breadcrumb"
+        },
+        {
+            "id": 2,
+            "name": "butter"
+        },
+        {
+            "id": 3,
+            "name": "chicken"
+        },
+        {
+            "id": 4,
+            "name": "cream"
+        },
+        {
+            "id": 5,
+            "name": "egg"
+        },
+        {
+            "id": 6,
+            "name": "egg yolk"
+        },
+        {
+            "id": 7,
+            "name": "fat"
+        },
+        {
+            "id": 8,
+            "name": "fish"
+        },
+        {
+            "id": 9,
+            "name": "flour"
+        },
+        {
+            "id": 10,
+            "name": "gravy"
+        },
+        {
+            "id": 11,
+            "name": "meat"
+        },
+        {
+            "id": 12,
+            "name": "mushroom"
+        },
+        {
+            "id": 13,
+            "name": "onion"
+        },
+        {
+            "id": 14,
+            "name": "parsley"
+        },
+        {
+            "id": 15,
+            "name": "pepper"
+        },
+        {
+            "id": 16,
+            "name": "pork"
+        },
+        {
+            "id": 17,
+            "name": "salt"
+        },
+        {
+            "id": 18,
+            "name": "sauce"
+        },
+        {
+            "id": 19,
+            "name": "vinegar"
+        },
+        {
+            "id": 20,
+            "name": "water"
+        }
+    ],
+    "edges": [
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 2,
+                "name": "butter"
+            },
+            "chem": 977
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "chem": 141
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 4,
+                "name": "cream"
+            },
+            "chem": 163
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg"
+            },
+            "chem": 682
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "chem": 314
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 7,
+                "name": "fat"
+            },
+            "chem": 256
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 8,
+                "name": "fish"
+            },
+            "chem": 163
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 404
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 250
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 261
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 187
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 362
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 546
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 809
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 157
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 974
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 427
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 67
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "breadcrumb"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 407
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "chem": 660
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 4,
+                "name": "cream"
+            },
+            "chem": 761
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg"
+            },
+            "chem": 1305
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "chem": 846
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 7,
+                "name": "fat"
+            },
+            "chem": 687
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 8,
+                "name": "fish"
+            },
+            "chem": 777
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 2202
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 1123
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 1179
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 684
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 1622
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 1830
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 3267
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 510
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 4195
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 1480
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 441
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 2279
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 4,
+                "name": "cream"
+            },
+            "chem": 184
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg"
+            },
+            "chem": 256
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "chem": 182
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 7,
+                "name": "fat"
+            },
+            "chem": 165
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 8,
+                "name": "fish"
+            },
+            "chem": 17
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 365
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 160
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 221
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 194
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 278
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 310
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 541
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 113
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 720
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 305
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 59
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 451
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg"
+            },
+            "chem": 298
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "chem": 322
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 7,
+                "name": "fat"
+            },
+            "chem": 103
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 8,
+                "name": "fish"
+            },
+            "chem": 126
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 427
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 144
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 206
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 140
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 191
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 268
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 451
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 72
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 713
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 295
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 57
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cream"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 383
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "chem": 364
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 7,
+                "name": "fat"
+            },
+            "chem": 404
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 8,
+                "name": "fish"
+            },
+            "chem": 323
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 727
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 346
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 462
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 200
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 477
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 728
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 1216
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 191
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 1605
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 437
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 177
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 811
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 7,
+                "name": "fat"
+            },
+            "chem": 132
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 8,
+                "name": "fish"
+            },
+            "chem": 176
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 456
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 185
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 230
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 179
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 306
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 461
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 577
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 71
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 841
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 368
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 125
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 418
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 8,
+                "name": "fish"
+            },
+            "chem": 116
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 497
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 409
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 636
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 187
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 553
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 459
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 757
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 335
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 1051
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 467
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 116
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "fat"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 669
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 357
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 96
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 105
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 145
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 331
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 505
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 598
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 79
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 897
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 440
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 200
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "fish"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 566
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "chem": 778
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 648
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 272
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 1084
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 955
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 1846
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 283
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 2340
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 626
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 258
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1603
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 11,
+                "name": "meat"
+            },
+            "chem": 629
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 163
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 674
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 472
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 1009
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 297
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 1275
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 400
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 173
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "gravy"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 887
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "chem": 242
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 835
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 589
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 1114
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 400
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 1598
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 603
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 208
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "meat"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1067
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "target": {
+                "id": 13,
+                "name": "onion"
+            },
+            "chem": 349
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 413
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 443
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 133
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 584
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 585
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 52
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "mushroom"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 260
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "chem": 1189
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 1728
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 442
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 2169
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 740
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 375
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "onion"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1545
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "chem": 1710
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 289
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 2108
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 864
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 289
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1155
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 16,
+                "name": "pork"
+            },
+            "chem": 556
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 4862
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 1000
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 494
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 2213
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "pork"
+            },
+            "target": {
+                "id": 17,
+                "name": "salt"
+            },
+            "chem": 754
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "pork"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 310
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "pork"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 89
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "pork"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 501
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "salt"
+            },
+            "target": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "chem": 1391
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "salt"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 771
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "salt"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 3131
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "chem": 226
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "sauce"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 784
+        },
+        {
+            "source": {
+                "id": 19,
+                "name": "vinegar"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 575
+        }
+    ]
+}

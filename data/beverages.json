@@ -1,0 +1,2176 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "brandy"
+        },
+        {
+            "id": 2,
+            "name": "coffee"
+        },
+        {
+            "id": 3,
+            "name": "cream"
+        },
+        {
+            "id": 4,
+            "name": "egg"
+        },
+        {
+            "id": 5,
+            "name": "egg white"
+        },
+        {
+            "id": 6,
+            "name": "fruit"
+        },
+        {
+            "id": 7,
+            "name": "ice"
+        },
+        {
+            "id": 8,
+            "name": "juice"
+        },
+        {
+            "id": 9,
+            "name": "lemon"
+        },
+        {
+            "id": 10,
+            "name": "lemon juice"
+        },
+        {
+            "id": 11,
+            "name": "loaf sugar"
+        },
+        {
+            "id": 12,
+            "name": "milk"
+        },
+        {
+            "id": 13,
+            "name": "nutmeg"
+        },
+        {
+            "id": 14,
+            "name": "orange"
+        },
+        {
+            "id": 15,
+            "name": "sugar"
+        },
+        {
+            "id": 16,
+            "name": "syrup"
+        },
+        {
+            "id": 17,
+            "name": "tea"
+        },
+        {
+            "id": 18,
+            "name": "water"
+        },
+        {
+            "id": 19,
+            "name": "wine"
+        },
+        {
+            "id": 20,
+            "name": "yeast"
+        }
+    ],
+    "edges": [
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 3,
+                "name": "cream"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg"
+            },
+            "chem": 34
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 50
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 7,
+                "name": "ice"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 52
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 45
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 32
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 49
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 64
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 56
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 33
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 190
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 15
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 136
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 31
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "brandy"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 14
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 3,
+                "name": "cream"
+            },
+            "chem": 48
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 7,
+                "name": "ice"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 45
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 43
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 119
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "coffee"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 4,
+                "name": "egg"
+            },
+            "chem": 26
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "chem": 26
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 7,
+                "name": "ice"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 64
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 85
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 83
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "cream"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "chem": 28
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 7,
+                "name": "ice"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 46
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 51
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 97
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 77
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 29
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "egg"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 7,
+                "name": "ice"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 24
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 30
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 33
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 14
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 74
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 15
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 93
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 7,
+                "name": "ice"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 67
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 41
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 29
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 28
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 110
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 17
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 97
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 22
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "fruit"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 8,
+                "name": "juice"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 26
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 61
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 44
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "ice"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "chem": 107
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 39
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 47
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 72
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 233
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 50
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 226
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 44
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "juice"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "chem": 64
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 56
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 22
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 92
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 204
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 43
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 28
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 218
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 22
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 25
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "chem": 38
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 26
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 17
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 31
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 153
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 164
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 12,
+                "name": "milk"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 24
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 62
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 15
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 118
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "loaf sugar"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 15
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "milk"
+            },
+            "target": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "chem": 49
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "milk"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "milk"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 176
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "milk"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "milk"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "milk"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 203
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "milk"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "milk"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 14,
+                "name": "orange"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 99
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 51
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "orange"
+            },
+            "target": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "chem": 110
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "orange"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 23
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "orange"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "orange"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 90
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "orange"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 15
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "orange"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "chem": 70
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 48
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 660
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 99
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 49
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "target": {
+                "id": 17,
+                "name": "tea"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 86
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "syrup"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "tea"
+            },
+            "target": {
+                "id": 18,
+                "name": "water"
+            },
+            "chem": 84
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "tea"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "tea"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "water"
+            },
+            "target": {
+                "id": 19,
+                "name": "wine"
+            },
+            "chem": 94
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "water"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 117
+        },
+        {
+            "source": {
+                "id": 19,
+                "name": "wine"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 14
+        }
+    ]
+}

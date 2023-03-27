@@ -1,0 +1,2176 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "broth"
+        },
+        {
+            "id": 2,
+            "name": "butter"
+        },
+        {
+            "id": 3,
+            "name": "carrot"
+        },
+        {
+            "id": 4,
+            "name": "celery"
+        },
+        {
+            "id": 5,
+            "name": "chicken"
+        },
+        {
+            "id": 6,
+            "name": "cream"
+        },
+        {
+            "id": 7,
+            "name": "egg"
+        },
+        {
+            "id": 8,
+            "name": "egg yolk"
+        },
+        {
+            "id": 9,
+            "name": "flour"
+        },
+        {
+            "id": 10,
+            "name": "meat"
+        },
+        {
+            "id": 11,
+            "name": "milk"
+        },
+        {
+            "id": 12,
+            "name": "onion"
+        },
+        {
+            "id": 13,
+            "name": "parsley"
+        },
+        {
+            "id": 14,
+            "name": "pepper"
+        },
+        {
+            "id": 15,
+            "name": "rice"
+        },
+        {
+            "id": 16,
+            "name": "salt"
+        },
+        {
+            "id": 17,
+            "name": "stock"
+        },
+        {
+            "id": 18,
+            "name": "tomato"
+        },
+        {
+            "id": 19,
+            "name": "turnip"
+        },
+        {
+            "id": 20,
+            "name": "water"
+        }
+    ],
+    "edges": [
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 2,
+                "name": "butter"
+            },
+            "chem": 219
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "chem": 127
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 4,
+                "name": "celery"
+            },
+            "chem": 83
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "chem": 71
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 6,
+                "name": "cream"
+            },
+            "chem": 78
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg"
+            },
+            "chem": 76
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 96
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 78
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 116
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 34
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 182
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 102
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 110
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 66
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 247
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 70
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 33
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 64
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "broth"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 232
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "chem": 274
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 4,
+                "name": "celery"
+            },
+            "chem": 255
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "chem": 113
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 6,
+                "name": "cream"
+            },
+            "chem": 277
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg"
+            },
+            "chem": 204
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 235
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 633
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 186
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 425
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 670
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 296
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 631
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 125
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 952
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 193
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 145
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 154
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "butter"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 817
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 4,
+                "name": "celery"
+            },
+            "chem": 283
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "chem": 78
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 6,
+                "name": "cream"
+            },
+            "chem": 54
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg"
+            },
+            "chem": 72
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 61
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 158
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 169
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 43
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 472
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 221
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 231
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 94
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 420
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 110
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 99
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 296
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "carrot"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 444
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "chem": 66
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 6,
+                "name": "cream"
+            },
+            "chem": 67
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg"
+            },
+            "chem": 57
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 48
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 155
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 111
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 89
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 388
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 167
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 223
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 65
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 372
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 80
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 69
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 168
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "celery"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 375
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 6,
+                "name": "cream"
+            },
+            "chem": 50
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg"
+            },
+            "chem": 53
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 59
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 71
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 66
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 38
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 133
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 81
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 102
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 82
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 191
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 41
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 39
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 40
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "chicken"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 204
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg"
+            },
+            "chem": 78
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 171
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 166
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 50
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 143
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 176
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 65
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 147
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 51
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 311
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 66
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 29
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 29
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "cream"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 261
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 139
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 174
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 82
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 104
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 148
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 94
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 163
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 33
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 290
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 68
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 20
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 35
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 263
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 140
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 51
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 103
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 140
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 89
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 146
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 42
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 284
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 74
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 28
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 243
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 10,
+                "name": "meat"
+            },
+            "chem": 147
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 307
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 466
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 202
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 437
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 73
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 649
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 112
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 91
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 80
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 584
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 36
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 273
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 130
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 190
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 70
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 309
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 64
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 55
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 91
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "meat"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 356
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 12,
+                "name": "onion"
+            },
+            "chem": 252
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 94
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 315
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 36
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 476
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 67
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 59
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 31
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 372
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "onion"
+            },
+            "target": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "chem": 379
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "onion"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 622
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "onion"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 166
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "onion"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 930
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "onion"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 171
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "onion"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 198
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "onion"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 267
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "onion"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 898
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "chem": 274
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 97
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 418
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 88
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 81
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 102
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "parsley"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 385
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 131
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 999
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 184
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 152
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 133
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "pepper"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 749
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 207
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 44
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 64
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 54
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 210
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 17,
+                "name": "stock"
+            },
+            "chem": 249
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 237
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 248
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 1252
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "stock"
+            },
+            "target": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "chem": 38
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "stock"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 54
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "stock"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 186
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "target": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "chem": 54
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "tomato"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 214
+        },
+        {
+            "source": {
+                "id": 19,
+                "name": "turnip"
+            },
+            "target": {
+                "id": 20,
+                "name": "water"
+            },
+            "chem": 273
+        }
+    ]
+}

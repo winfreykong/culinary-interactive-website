@@ -1,0 +1,2176 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "almond"
+        },
+        {
+            "id": 2,
+            "name": "baking powder"
+        },
+        {
+            "id": 3,
+            "name": "butter"
+        },
+        {
+            "id": 4,
+            "name": "cinnamon"
+        },
+        {
+            "id": 5,
+            "name": "cream"
+        },
+        {
+            "id": 6,
+            "name": "egg"
+        },
+        {
+            "id": 7,
+            "name": "egg white"
+        },
+        {
+            "id": 8,
+            "name": "egg yolk"
+        },
+        {
+            "id": 9,
+            "name": "flour"
+        },
+        {
+            "id": 10,
+            "name": "lemon"
+        },
+        {
+            "id": 11,
+            "name": "milk"
+        },
+        {
+            "id": 12,
+            "name": "nutmeg"
+        },
+        {
+            "id": 13,
+            "name": "paste"
+        },
+        {
+            "id": 14,
+            "name": "powdered sugar"
+        },
+        {
+            "id": 15,
+            "name": "salt"
+        },
+        {
+            "id": 16,
+            "name": "soda"
+        },
+        {
+            "id": 17,
+            "name": "sugar"
+        },
+        {
+            "id": 18,
+            "name": "vanilla"
+        },
+        {
+            "id": 19,
+            "name": "water"
+        },
+        {
+            "id": 20,
+            "name": "yeast"
+        }
+    ],
+    "edges": [
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "chem": 93
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 3,
+                "name": "butter"
+            },
+            "chem": 432
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "chem": 212
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 5,
+                "name": "cream"
+            },
+            "chem": 229
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 460
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "chem": 395
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 359
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 456
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 153
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 230
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 96
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 154
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 181
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 152
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 39
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 801
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 156
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 295
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "almond"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 35
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 3,
+                "name": "butter"
+            },
+            "chem": 887
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "chem": 176
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 5,
+                "name": "cream"
+            },
+            "chem": 164
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 763
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "chem": 380
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 371
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 1128
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 89
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 673
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 107
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 97
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 512
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 76
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 896
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 182
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 326
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "baking powder"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "chem": 925
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 5,
+                "name": "cream"
+            },
+            "chem": 1101
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 3603
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "chem": 982
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 1397
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 4487
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 455
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 2713
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 1016
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 655
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 454
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 2320
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 1051
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 3897
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 504
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 2143
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 637
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 5,
+                "name": "cream"
+            },
+            "chem": 251
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 849
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "chem": 215
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 295
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 840
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 151
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 514
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 523
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 107
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 123
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 391
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 284
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 1138
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 82
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 451
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 80
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 998
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "chem": 453
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 719
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 945
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 253
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 908
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 334
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 219
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 289
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 680
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 186
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 1652
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 493
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 937
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 68
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "chem": 750
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 1229
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 3807
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 533
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 2556
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 944
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 476
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 525
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 2058
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 876
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 3672
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 478
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 1569
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 483
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "chem": 1019
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 1139
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 307
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 647
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 186
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 214
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 428
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 424
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 208
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 1665
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 378
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 663
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg white"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 65
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 9,
+                "name": "flour"
+            },
+            "chem": 1421
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 349
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 973
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 316
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 271
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 351
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 762
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 210
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 1752
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 394
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 760
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 85
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 448
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 2768
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 881
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 582
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 530
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 2615
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 1241
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 3893
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 440
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 2187
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "flour"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 842
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 11,
+                "name": "milk"
+            },
+            "chem": 277
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 157
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 96
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 136
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 198
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 98
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 886
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 120
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 440
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 25
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "chem": 532
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 245
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 326
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 2037
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 606
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 2635
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 544
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 1490
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "milk"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 654
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 13,
+                "name": "paste"
+            },
+            "chem": 156
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 142
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 492
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 222
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 996
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 50
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 401
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 79
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "paste"
+            },
+            "target": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "chem": 142
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "paste"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 356
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "paste"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "paste"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 622
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "paste"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 101
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "paste"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 501
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "paste"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 55
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "target": {
+                "id": 15,
+                "name": "salt"
+            },
+            "chem": 198
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 70
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 627
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 199
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 319
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "powdered sugar"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 39
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "salt"
+            },
+            "target": {
+                "id": 16,
+                "name": "soda"
+            },
+            "chem": 573
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "salt"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 1752
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "salt"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 226
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "salt"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 2026
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "salt"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 621
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "soda"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 900
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "soda"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 94
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "soda"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 534
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "soda"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 96
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "chem": 934
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 2790
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 477
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 479
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "vanilla"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 19,
+                "name": "water"
+            },
+            "target": {
+                "id": 20,
+                "name": "yeast"
+            },
+            "chem": 450
+        }
+    ]
+}

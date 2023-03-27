@@ -1,0 +1,2176 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "bread"
+        },
+        {
+            "id": 2,
+            "name": "broth"
+        },
+        {
+            "id": 3,
+            "name": "butter"
+        },
+        {
+            "id": 4,
+            "name": "cinnamon"
+        },
+        {
+            "id": 5,
+            "name": "cream"
+        },
+        {
+            "id": 6,
+            "name": "egg"
+        },
+        {
+            "id": 7,
+            "name": "egg yolk"
+        },
+        {
+            "id": 8,
+            "name": "flour"
+        },
+        {
+            "id": 9,
+            "name": "jelly"
+        },
+        {
+            "id": 10,
+            "name": "lemon"
+        },
+        {
+            "id": 11,
+            "name": "lemon juice"
+        },
+        {
+            "id": 12,
+            "name": "meat"
+        },
+        {
+            "id": 13,
+            "name": "milk"
+        },
+        {
+            "id": 14,
+            "name": "nutmeg"
+        },
+        {
+            "id": 15,
+            "name": "rice"
+        },
+        {
+            "id": 16,
+            "name": "salt"
+        },
+        {
+            "id": 17,
+            "name": "sugar"
+        },
+        {
+            "id": 18,
+            "name": "toast"
+        },
+        {
+            "id": 19,
+            "name": "water"
+        },
+        {
+            "id": 20,
+            "name": "wine"
+        }
+    ],
+    "edges": [
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 2,
+                "name": "broth"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 3,
+                "name": "butter"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 5,
+                "name": "cream"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 8,
+                "name": "flour"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 26
+        },
+        {
+            "source": {
+                "id": 1,
+                "name": "bread"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 3,
+                "name": "butter"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 5,
+                "name": "cream"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 8,
+                "name": "flour"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 2,
+                "name": "broth"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 5,
+                "name": "cream"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 8,
+                "name": "flour"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 20
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 11
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 40
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 30
+        },
+        {
+            "source": {
+                "id": 3,
+                "name": "butter"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 5,
+                "name": "cream"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 8,
+                "name": "flour"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 17
+        },
+        {
+            "source": {
+                "id": 4,
+                "name": "cinnamon"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 6,
+                "name": "egg"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 8,
+                "name": "flour"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 23
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 22
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 31
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 35
+        },
+        {
+            "source": {
+                "id": 5,
+                "name": "cream"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 8,
+                "name": "flour"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 30
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 23
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 31
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 29
+        },
+        {
+            "source": {
+                "id": 6,
+                "name": "egg"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 8,
+                "name": "flour"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 14
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 16
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 25
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 25
+        },
+        {
+            "source": {
+                "id": 7,
+                "name": "egg yolk"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 27
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 14
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 23
+        },
+        {
+            "source": {
+                "id": 8,
+                "name": "flour"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 14
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 24
+        },
+        {
+            "source": {
+                "id": 9,
+                "name": "jelly"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 9
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 6
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 5
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 33
+        },
+        {
+            "source": {
+                "id": 10,
+                "name": "lemon"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 12,
+                "name": "meat"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 4
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 17
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 29
+        },
+        {
+            "source": {
+                "id": 11,
+                "name": "lemon juice"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 12
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "meat"
+            },
+            "target": {
+                "id": 13,
+                "name": "milk"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "meat"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "meat"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "meat"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "meat"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 2
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "meat"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "meat"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 21
+        },
+        {
+            "source": {
+                "id": 12,
+                "name": "meat"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 0
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "milk"
+            },
+            "target": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "chem": 22
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "milk"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 19
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "milk"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 55
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "milk"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 75
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "milk"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "milk"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 90
+        },
+        {
+            "source": {
+                "id": 13,
+                "name": "milk"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 14
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 15,
+                "name": "rice"
+            },
+            "chem": 7
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 26
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 39
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 46
+        },
+        {
+            "source": {
+                "id": 14,
+                "name": "nutmeg"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 13
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 16,
+                "name": "salt"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 14
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 23
+        },
+        {
+            "source": {
+                "id": 15,
+                "name": "rice"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 1
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "chem": 56
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 18
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 116
+        },
+        {
+            "source": {
+                "id": 16,
+                "name": "salt"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 8
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 18,
+                "name": "toast"
+            },
+            "chem": 10
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 130
+        },
+        {
+            "source": {
+                "id": 17,
+                "name": "sugar"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 29
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "toast"
+            },
+            "target": {
+                "id": 19,
+                "name": "water"
+            },
+            "chem": 20
+        },
+        {
+            "source": {
+                "id": 18,
+                "name": "toast"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 3
+        },
+        {
+            "source": {
+                "id": 19,
+                "name": "water"
+            },
+            "target": {
+                "id": 20,
+                "name": "wine"
+            },
+            "chem": 39
+        }
+    ]
+}
