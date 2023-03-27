@@ -1,0 +1,150 @@
+/*You can add styles to format your tooltip here*/
+.center_plot {
+    margin: auto;
+    text-align: center;
+}
+
+.project_title {
+    text-align: center;
+    font-family: 'Goudy Old Style';
+}
+
+.credits {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 14;
+}
+
+.description {
+    margin: 0 150 0;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16;
+}
+
+.bullet_points {
+    margin: 10 150 0;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16;
+}
+
+.motivation {
+    margin: 50 150 20;
+    text-align: left;
+    font-family: 'Goudy Old Style';
+}
+.motivation2 {
+    margin: 0 150 20;
+    text-align: left;
+    font-family: 'Goudy Old Style';
+}
+.plot_title {
+    margin: 30 150 5;
+    text-align: left;
+    font-family: 'Goudy Old Style';
+    font-style: normal;
+    font-size: 18;
+    color: #0B456F;
+    font-weight: 600;
+}
+
+.plot_description {
+    margin: 0 150 5;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    color: #8BAFC9;
+    font-size: 14;
+}
+
+.introduction {
+    margin: 0 150 5;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.xAxis {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.yAxis {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.valueLabel {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.xlabel {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ylabel {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.tooltip1{
+    position: absolute;
+    text-align: center;
+    width: "fit-content";
+    height: "fit-content";
+    padding: 5px;
+    background: rgb(16, 32, 96);
+    color: aliceblue;
+    pointer-events: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#plot3_dropdown {
+    margin-left: 150;
+    margin-top: 10;
+    margin-bottom: 10;
+}
+
+#bin_description{
+    margin-bottom: 10;
+}
+
+.nodeLabel{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#plot4_buttons{
+    margin-left: 150;
+    margin-top: 30;
+    margin-bottom: 10;
+}
+
+#plot5_buttons{
+    margin-left: 150;
+    margin-top: 30;
+    margin-bottom: 10;
+}
+
+.tooltip2{
+    position: absolute;
+    text-align: center;
+    width: "fit-content";
+    height: "fit-content";
+    padding: 5px;
+    background: rgb(16, 32, 96);
+    color: aliceblue;
+    pointer-events: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tooltip3{
+    position: absolute;
+    text-align: left;
+    width: "fit-content";
+    height: "fit-content";
+    padding: 5px;
+    background: aliceblue;
+    color: rgb(16, 32, 96);
+    pointer-events: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,258 @@
+
+<html>  
+<head>  
+<script type="text/javascript" src="app.js">
+    </script>  
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/d3-color@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-interpolate@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-scale-chromatic@3"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+</head>
+<body onload=finalProject()> 
+
+
+<div>
+<h1 class="project_title">Feeding America: The Historic American Cookbook</h1>
+<p class="introduction">
+    Do you own a cookbook? 
+    <br><br> In this era, almost any recipe can be found on the Internet (you name it!) and in any form that you work best with - be it video, text or photograph. 
+    <br> Rewinding to the 18-19th century, cookbooks were the (only) way to introduce new ingredients and recipes. Because of that, historic cookbooks have become an important tool to learn about culinary traditions, cultural exchange and more importantly, the development of these traditions to what we call the “American food” today.
+
+</p>
+<br>
+</div>
+
+<div id="section1">
+    <p class="plot_title">Number of Recipes Published between the 19th-20th Century</p>
+    <p class="plot_description">We could see a gradual increase in number of recipes published overtime</p>
+    <div id="plot1" class="center_plot">
+    </div>
+</div>    
+    
+<!-- <div>
+ <div id="radio_q2" class="center_plot">
+        <input type="radio" id="q2_MCD" name="region" value="McDonald's" checked="checked">
+        <label for="McDonald's">McDonald's</label>
+        <input type="radio" id="q3_BK" name="region" value="Burger King">
+        <label for="Japan">Burger King</label>
+        <input type="radio" id="q3_W" name="region" value="Wendy's">
+        <label for="Wendy's">Wendy's</label>
+</div> -->
+      
+<div id="section2">
+    <h2 class="motivation">In our dataset, recipes are divided into 8 main categories: 
+        breadsweets, meatfishgame, fruitvegbeans, accompaniments, eggscheesedairy, soups, beverages, and medhealth
+    </h2>
+    <p class="plot_title">Amongst these recipes, what are the types of recipes that were published during this period of time?</p>
+    <p class="plot_description">Interestingly, baking recipes were a hit during this period of time! (Note: Percentage is rounded-down)
+    </p>
+    <div id="plot2" class="center_plot">
+    </div>
+    <div>
+        <p class="credits" style="color: royalblue;">Each icon represents 1%. Icons are made from <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</p>
+        <p class="description">According to historians, one main reason why baked goods gained large traction during the 18th-19th century is the significant drop in prices of commodities like sugar and flour. 
+            Amongst all kinds of baked goods, pies and cookies were especially popular.</p>
+    </div>
+</div>    
+
+<div id="section3">
+    <div>
+        <h2 class="motivation">Let's dive deeper to take a look at what the top 100 most frequently mentioned ingredients are!</h2>
+        <p class="description" style="font-size: small;">The top 100 indgredients are divided into 10 bins. Select the dropdown below to look at each bin</p>
+    </div>
+    <select id="plot3_dropdown"></select>
+    <div>
+        <p class="description" id="bin_description" style="font-size: small;"></p>
+        <p class="description" style="font-size: small;">Now, hover over which area they correspond to!</p>
+    </div>
+    <div id="plot3" class="center_plot">
+    </div>
+
+</div>  
+
+<div id="section4">
+    <div>
+        <h2 class="motivation">Now, you might have already noticed that the Top 10 ingredients seem to have (almost) the same trend, i.e. rising and falling at the same time.
+            In fact, you will notice the same situation in the first 5 bins (Top 50 ingredients).
+        </h2>
+        <h3 class="motivation2" style="color: darkred;">This is NOT a bug. It is because these ingredients were typically being used together - they are complementary goods!</h3>
+    </div>
+    <div>
+        <p class="description">This brings us to the next section where we will explore what ingredients were commonly used together. In the next section, we explore the relationship between the Top 20 most used ingredients in each category.</p>
+    </div>
+    <div id="plot4_buttons">
+        <button value="bread">breadsweets</button>
+        <button value="meat">meatfishgame</button>
+        <button value="vege">fruitvegbeans</button>
+        <button value="dairy">eggscheesedairy</button>
+        <button value="acc">accompaniments</button>
+        <button value="bev">beverages</button>
+        <button value="soup">soups</button>
+        <button value="med">medhealth</button>
+    </div>
+    <div>
+        <p class="description" id="bin_description" style="font-size: small;"></p>
+        <p class="plot_title">
+            Do you observe any common pair of ingredients across all categories?
+        </p>
+        <p class="plot_description">
+            It is not surprising to see that seasonings like salt and sugar stood out in all categories. What is interesting though, are the more distinctive ingredients in each category.
+            For example, you will find more mentions of red/white meat in the "meatfishgame" section and more mentions of vegetables in the "fruitvegbeans" section.
+        </p>
+    </div>
+    <div id="plot4" class="center_plot">
+    </div>
+
+</div> 
+
+<div id="section5">
+    <div>
+        <h2 class="motivation">Interestingly, we could also visualize some of the ingredient pairs that went out of trend/ gained popularity during this period of time 
+        </h2>
+        <h3 class="motivation2" style="color: royalblue;">We will explore a total of 3 pairs of ingredients: sugar-molass, baking powder-yeast, and tomato-celery</h3>
+    </div>
+    <div>
+        <p class="description">Some historical background about these ingredients:
+        </p>
+        <ul class="bullet_points">
+            <li>
+                After the invention of baking powder, it became a popular substitute for yeast because baking powder has quicker reaction as compared to yeast
+            </li>
+            <li>
+                Molass and sugar were both used as sweetener, especially in baking recipes. Molass was the primary choice for sweentener until the 1880s. On the contrary, sugar gained popularity over the years as sugar became more and more accessible and sugar price dropped significantly
+            </li>
+            <li>
+                Tomato and celery both gained popularity during this period of time. Tomatoes were once perceived as poisonous - it only became a commercial crop in the late 19th century. Meanwhile, celery, introduced to the Americans by the Europeans, gained popularity in the 19th century.
+            </li>
+          </ul>
+    </div>
+    <div id="plot5_buttons">
+        <button value="Group1">Group1: sugar vs molass</button>
+        <button value="Group2">Group2: baking powder vs yeast</button>
+        <button value="Group3">Group3: tomato vs celery</button>
+        
+    </div>  
+    <div>
+        <p class="description" id="bin_description" style="font-size: small;"></p>
+    </div>
+    <div id="plot5" class="center_plot">
+    </div>
+
+</div> 
+
+<div id="section6">
+    <div>
+        <h2 class="motivation">Another notable discovery is that, the 19th-20th century is when the Civil War took place 
+            and the United States saw a surge in the number of immigrations. 
+        </h2>
+        <h3 class="motivation2" style="color: darkred;">Immigrants from Asia, the middle East, Europe and all parts of the world brought new culinary ideas to the locals.
+        Perhaps we could see traces of such historical event in this collection of historic cookbooks!</h3>
+    </div>
+    <div>
+        <p class="description">In the next section, we will investigate ingredients that occur more frequently in ethnic recipes than general recipes</p>
+    </div>  
+    <div>
+        <p class="plot_title">
+            Focus on the outliers! <br>
+            Ingredients on the top left corner are more specific to ethnic recipes, while the bottom right ones are more specific to general recipes
+        </p>
+        <p class="plot_description">
+            Ingredients that are more specific to ethnic recipes include: dried onion (Asian), syou (Chinese), garlic (Mediterranean), and mayonnaise (French).
+        </p>
+        <p class="plot_description" style="color:darkred">
+            Zoom in and hover over to view the ingredients!
+        </p>
+    </div>
+    <div id="plot6" class="center_plot">
+    </div>
+
+</div> 
+
+<div id="section7">
+    <div>
+        <h2 class="motivation">It looks like there was indeed some culinary cultural exchange going on during this period of time
+        </h2>
+        <h3 class="motivation2" style="color: darkred;">Lastly, let's visualize this on a world map!</h3>
+    </div>
+    <div>
+        <p class="plot_title">
+            We could see the majority of them were in the Europe and Middle East region!
+        </p>
+        <p class="plot_description">
+            Hover over each point to see what countries they are and the number of ethnic recipes that were believed to originate from those countries
+        </p>
+    </div>
+    <div id="plot7" class="center_plot">
+    </div>
+
+</div> 
+
+<div id="section8">
+    <h2 class="motivation">
+        This marks the end of our exploration of the culinary history in the United States!
+    </h2>
+    <h3 class="motivation2" style="color: darkred;">
+        The next section is a summary of all the plots in this project
+    </h3>
+    <h3 class="motivation2" style="margin-top: 50;">
+        Plot1: Dot Chart
+    </h3>
+    <p class="plot_description" style="color:royalblue; font-size: medium;">
+        Mark: Encode two quantitative attributes using point marks
+        <br>Channel: Vertical spatial position for the value and horizontal spatial position for the ordered key attribute (year)
+        <br>Color: Single solid light blue color
+    </p>
+    <h3 class="motivation2" style="margin-top: 50;" >
+        Plot2: Bar Chart (Pictogram style)
+    </h3>
+    <p class="plot_description" style="color:royalblue; font-size: medium;">
+        Mark: Line marks coded with (custom) shape (icons are drawn using path)
+        <br>Channel: Vertical spatial position for the value and horizontal spatial position for the categorical attribute (quantitative). The categorical attribute is encoded by color and (custom) shape
+        <br>Color: Categorical colormap. Self-define color for each category to match the nature of the icons - brown, pink, dark green, olive, orange, yellow, blue, and red. Used d3.scaleOrdinal() to map each category with a color
+    </p>
+    <h3 class="motivation2" style="margin-top: 50;" >
+        Plot3: Streamgraph
+    </h3>
+    <p class="plot_description" style="color:royalblue; font-size: medium;">
+        Mark: Area marks with each area stacked on top of another. Each area represents one unique ingredient.
+        <br>Channel: Vertical spatial position for the value attribute and horizontal spatial position for the ordered key attribute (year). The other categorical key attribute (ingredient) is encoded by adding colors.
+        <br>Color: Categorical colormap. Used d3.scaleOrdinal() to map each unique ingredient to a color from the d3.schemeSet3 scale.
+    </p>
+    <h3 class="motivation2" style="margin-top: 50;" >
+        Plot4: Node-Link Diagram
+    </h3>
+    <p class="plot_description" style="color:royalblue; font-size: medium;">
+        Mark: Point marks for nodes - each node represents a unique ingredient. Connection marks for edges - each edge represents the quantitative value attribute.
+        <br>Channel: Visual channels - size of connection marks and color of connection marks to show the strength of relationship
+        <br>Color: Sequential colormap. Used d3.scaleSequential() to map the range of edge weights to colors from the d3.interpolatePurples colorscale.
+    </p>
+    <h3 class="motivation2" style="margin-top: 50;" >
+        Plot5: Line & Dot Chart
+    </h3>
+    <p class="plot_description" style="color:royalblue; font-size: medium;">
+        Mark: Point marks for each value attribute ordered by key attribute on the horizontal space. Connection marks connecting each point.
+        <br>Channel: Vertical spatial position for the value and horizontal spatial position for the ordered key attribute (year). Color channel to differentiate unique ingredients.
+        <br>Color: Categorical colormap. Used d3.scaleOrdinal() to map each unique ingredient with a color from the d3.schemeSet2 scale.
+    </p>
+    <h3 class="motivation2" style="margin-top: 50;" >
+        Plot6: Scatterplot
+    </h3>
+    <p class="plot_description" style="color:royalblue; font-size: medium;">
+        Mark: Point marks for value attributes
+        <br>Channel: Used both the vertical and horizontal spatial position. Color channel to show outliers in the scatterplot.
+        <br>Color: Sequential colormap. Used d3.scaleSequential() to map the difference of two value attributes to colors from the d3.interpolateRdBu colorscale.
+    </p>
+    <h3 class="motivation2" style="margin-top: 50;" >
+        Plot7: Geomap
+    </h3>
+    <p class="plot_description" style="color:royalblue; font-size: medium;">
+        Mark: Use given geometry for area mark boundaries. Encoded the count of recipes from each country as point marks on the map.
+        <br>Channel: The value attribute (count of recipes) is encoded by adding color and size to the point marks.
+        <br>Color: Sequential colormap. Used d3.scaleSequential() to map the value attribute to colors from the d3.interpolateYlOrRd colorscale.
+    </p>
+</div>
+    
+</body>  
+</html>  
